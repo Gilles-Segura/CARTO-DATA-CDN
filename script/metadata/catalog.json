@@ -1,0 +1,15 @@
+{
+  "name": "Barrier Data CDN",
+  "description": "Content Delivery Network for river barrier data",
+  "last_updated": "2025-06-12T15:39:52.471167",
+  "data_categories": {
+    "types": {
+      "description": "Barrier data organized by type",
+      "files": []
+    },
+    "countries": {
+      "description": "Barrier data organized by country",
+      "files": []
+    }
+  }
+}
